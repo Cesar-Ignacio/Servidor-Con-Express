@@ -1,0 +1,29 @@
+[
+	{
+        "_title": "Lavadora",
+        "_description": "Lavadora de carga frontal",
+        "_price": 399,
+        "_thumbnail": "lavadora.jpg",
+        "_code": "LD1234",
+        "_stock": 15,
+        "_id": 101
+    },
+    {
+        "_title": "Refrigerador",
+        "_description": "Refrigerador de dos puertas",
+        "_price": 799,
+        "_thumbnail": "refrigerador.jpg",
+        "_code": "RD5678",
+        "_stock": 10,
+        "_id": 102
+    },
+    {
+        "_title": "Microondas",
+        "_description": "Microondas con grill",
+        "_price": 149,
+        "_thumbnail": "microondas.jpg",
+        "_code": "MD9101",
+        "_stock": 20,
+        "_id": 103
+    }
+]
