@@ -1,12 +1,12 @@
 [
-	{
+    {
         "_title": "Lavadora",
         "_description": "Lavadora de carga frontal",
         "_price": 399,
         "_thumbnail": "lavadora.jpg",
         "_code": "LD1234",
         "_stock": 15,
-        "_id": 101
+        "_id": 1
     },
     {
         "_title": "Refrigerador",
@@ -15,7 +15,7 @@
         "_thumbnail": "refrigerador.jpg",
         "_code": "RD5678",
         "_stock": 10,
-        "_id": 102
+        "_id": 2
     },
     {
         "_title": "Microondas",
@@ -24,6 +24,69 @@
         "_thumbnail": "microondas.jpg",
         "_code": "MD9101",
         "_stock": 20,
-        "_id": 103
+        "_id": 3
+    },
+    {
+        "_title": "Televisor",
+        "_description": "Televisor LED de 50 pulgadas",
+        "_price": 699,
+        "_thumbnail": "televisor.jpg",
+        "_code": "TV2022",
+        "_stock": 8,
+        "_id": 4
+    },
+    {
+        "_title": "Secadora",
+        "_description": "Secadora de ropa",
+        "_price": 299,
+        "_thumbnail": "secadora.jpg",
+        "_code": "SD4444",
+        "_stock": 12,
+        "_id": 5
+    },
+    {
+        "_title": "Cocina",
+        "_description": "Cocina a gas con horno eléctrico",
+        "_price": 899,
+        "_thumbnail": "cocina.jpg",
+        "_code": "CK7777",
+        "_stock": 7,
+        "_id": 6
+    },
+    {
+        "_title": "Aspiradora",
+        "_description": "Aspiradora sin bolsa",
+        "_price": 129,
+        "_thumbnail": "aspiradora.jpg",
+        "_code": "AS8888",
+        "_stock": 18,
+        "_id": 7
+    },
+    {
+        "_title": "Batidora",
+        "_description": "Batidora de mano",
+        "_price": 49,
+        "_thumbnail": "batidora.jpg",
+        "_code": "BT1010",
+        "_stock": 25,
+        "_id": 8
+    },
+    {
+        "_title": "Horno",
+        "_description": "Horno eléctrico de convección",
+        "_price": 199,
+        "_thumbnail": "horno.jpg",
+        "_code": "HN1212",
+        "_stock": 9,
+        "_id": 9
+    },
+    {
+        "_title": "Licuadora",
+        "_description": "Licuadora de vaso",
+        "_price": 79,
+        "_thumbnail": "licuadora.jpg",
+        "_code": "LC1313",
+        "_stock": 22,
+        "_id": 10
     }
 ]

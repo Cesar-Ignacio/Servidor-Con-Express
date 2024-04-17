@@ -123,12 +123,3 @@ export class ProductManager {
         return this._products.some(product => product._id === idProducto)
     }
 }
-/**Prueba */
-// const pm = new ProductManager("./Productos.json");
-// const data=await pm.getProducts();
-// console.log(data);
-// await pm.addProduct("producto prueba", "producto prueba", 200, "sin imagen", "abc123", 25);
-// console.log(await pm.getProducts());
-// console.log(await pm.getProductById(1));
-// await pm.updateProduct(1,{"_title":"Nuevo Producto"});
-// await pm.deleteProduct(1);
